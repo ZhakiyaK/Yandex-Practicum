@@ -1,5 +1,8 @@
 # Yandex-Practicum
 
+## Описание репозитория
+
+123213213123213213
 
 ## Содержание
 
@@ -21,3 +24,7 @@
     *   [Final_task_4th_sprint (Финальное задание 4-го спринта)](./Final_task_12th_sprint)      
 *   **Final_project**
     *   [Final_task_4th_sprint (Финальное задание 4-го спринта)](./Final_project)
+
+## Советы
+
+123123123213123123
